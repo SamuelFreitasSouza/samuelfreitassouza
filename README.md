@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Freitas 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end na empresa AsapLog
 - 🌱 Estudando ReactJS
 - 😄 Pronouns: ele/dele
 
