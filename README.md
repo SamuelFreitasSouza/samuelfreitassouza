@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelFreitasSouza&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Hoje trabalho com front-end na empresa AsapLog
-- 🌱 Estudando ReactJS/PHP/Node.js
 - 😄 Pronouns: ele/dele
 
 
