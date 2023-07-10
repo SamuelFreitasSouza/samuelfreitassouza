@@ -31,10 +31,3 @@
   <a href="https://www.linkedin.com/in/samuel-freitas-944288180/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelFreitasSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFreitasSouza&layout=compact&langs_count=10&theme=dark"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
