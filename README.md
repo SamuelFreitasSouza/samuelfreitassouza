@@ -3,6 +3,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> my name is samuel, Welcome to my GitHub profile!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelFreitasSouza&color=yellow" alt="Profile views" /> </p>
  I am a tech enthusiast and a Front-End developer with a love for continuous learning. My tech stack includes WordPress, JS, HTML, CSS, Sass, and Tailwind. I'm also familiar with Bootstrap 5 and have dabbled in ReactJS, Node.js, PHP, and Python. Lately, I've been exploring Java and Spring Boot. Here, you'll find my personal projects and contributions to the open-source community. Let's collaborate and make an impact in the world of technology together!
+
+ 
 - 🔭 Hoje trabalho com front-end na empresa AsapLog
 - 😄 Pronouns: ele/dele
 
